@@ -1,1 +1,0 @@
-Program działa zgodnie z poleceniem. Ważną rzeczą jest to, że zaznaczyłem obszar od lewej strony. Aby przycisk 'start' przestał działac, trzeba nakierować myszkę na lewą stronę przycisku (pokazane strzałką na rysunku). Wtedy pojawi się komunikat oznaczający, że to strefa bezpieczeństwa
